@@ -29,5 +29,4 @@ Open http://localhost:4200/ in your browser.
 
 - **Integration UG**: [Mention Integration with Angular Rich Text Editor](https://ej2.syncfusion.com/angular/documentation/rich-text-editor/integrations/mention)
 - **Documentation** - [Getting Started](https://ej2.syncfusion.com/angular/documentation/rich-text-editor/getting-started)
-- **Demo**: [Angular Rich Text Editor Overview sample](https://ej2.syncfusion.com/angular/demos/#/tailwind3/rich-text-editor/tools)
-
+- **Full Featured Demo**: [Angular Rich Text Editor Overview sample](https://ej2.syncfusion.com/angular/demos/#/tailwind3/rich-text-editor/tools)
