@@ -24,7 +24,6 @@ Open http://localhost:4200/ in your browser.
 - How to enable and configure `Mention` inside the editor
 - Using local and remote data sources for mention suggestions
 - Customizing mention templates and display fields
-- Handling mention events (select, open, close) and inserting custom content
 
 ## References
 
