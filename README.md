@@ -1,6 +1,6 @@
 # Angular Rich Text Editor — Mention integration
 
-This repository is a minimal Angular sample demonstrating how to integrate Syncfusion's Mention Component with EJ2 Angular Rich Text Editor.
+This repository is a minimal Angular sample demonstrating how to integrate Syncfusion's Mention Component with EJ2 [Angular Rich Text Editor](https://www.syncfusion.com/angular-components/angular-rich-text-editor).
 
 ## Quick start
 
